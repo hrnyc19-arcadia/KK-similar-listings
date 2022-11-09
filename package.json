@@ -51,6 +51,6 @@
     "popper.js": "^1.15.0",
     "supertest": "^3.4.2",
     "webpack": "^4.35.3",
-    "webpack-cli": "^3.3.5"
+    "webpack-cli": "^3.3.12"
   }
 }
